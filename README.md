@@ -39,39 +39,6 @@ Context-Aware Responses: Generates responses based on the context provided by th
 
 Scalability: Can be applied to large-scale knowledge bases with minimal performance trade-offs.
 
-# 🔍 How Agentic RAG Overcomes Traditional Disadvantages
-
-Traditional language models face the following challenges:
-
-Challenge
-
-Traditional LLMs
-
-Agentic RAG
-
-Outdated Knowledge
-
-Relies on pre-training
-
-Retrieves real-time data
-
-Lack of Contextual Depth
-
-Limited context window
-
-Augments with relevant docs
-
-Scalability Issues
-
-Struggles with large KBs
-
-Efficient vector search
-
-Agentic RAG combines LLMs with external knowledge retrieval to overcome these limitations.
-
-Here are some example queries and the system's responses:
-
-
 
 📈 Advantages of Using Agentic RAG
 
